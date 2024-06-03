@@ -1,5 +1,5 @@
 # 💫 About Me:
-22 year old CS Student and tech enthusiast currently working as an IT all-rounder at the nature museum in St. Gallen while attending Uni
+23 year old CS Student and tech enthusiast currently working as an IT all-rounder at the nature museum in St. Gallen while attending Uni
 
 
 ## 🌐 Socials:
