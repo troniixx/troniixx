@@ -1,5 +1,5 @@
 # 💫 About Me:
-24 year old CS Student and tech enthusiast currently studying Computational Linguistics and Computational Sciences at the University of Zurich.
+24 year old Machine learning, AI, Cyber Security and tech enthusiast currently studying Computational Linguistics and Computational Sciences at the University of Zurich.
 
 
 ## 🌐 Socials:
