@@ -1,5 +1,5 @@
 # 💫 About Me:
-24 year old CS Student and tech enthusiast currently working as an IT all-rounder at the nature museum in St. Gallen while attending Uni
+24 year old CS Student and tech enthusiast currently studying Computational Linguistics and Computational Sciences at the University of Zurich.
 
 
 ## 🌐 Socials:
